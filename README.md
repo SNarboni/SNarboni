@@ -1,4 +1,4 @@
-### Hi there 👋
+### Junior développeur full stack JS (React, Node, Express, MongoDB)
 
 <!--
 **SNarboni/SNarboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
