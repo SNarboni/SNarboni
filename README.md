@@ -1,4 +1,4 @@
-### Junior développeur full stack JS (React, Node, Express, MongoDB)
+### Junior développeur full stack MERN
 
 <!--
 **SNarboni/SNarboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
